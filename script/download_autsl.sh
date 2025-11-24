@@ -36,10 +36,10 @@ class()
 #------------------------- TRAIN Data -------------------------#
 
 # Configuration
-_TRAIN_VIDEO_URL="http://158.109.8.102/AuTSL/data/train/train_set_vfbha39.zip"
+_TRAIN_VIDEO_URL="https://data.chalearnlap.cvc.uab.cat/AuTSL/data/train/train_set_vfbha39.zip"
 _TRAIN_VIDEO_FILE="train_set_vfbha39.zip"
 _TRAIN_VIDEO_PASSWORD="MdG3z6Eh1t"
-_TRAIN_LABELS_URL="http://158.109.8.102/AuTSL/data/train/train_labels.csv"
+_TRAIN_LABELS_URL="https://data.chalearnlap.cvc.uab.cat/AuTSL/data/train/train_labels.csv"
 
 train_labels()
 {
@@ -106,10 +106,10 @@ train()
 #------------------------- TEST Data -------------------------#
 
 # Configuration
-_TEST_VIDEO_URL="http://158.109.8.102/AuTSL/data/test/test_set_xsaft57.zip"
+_TEST_VIDEO_URL="https://data.chalearnlap.cvc.uab.cat/AuTSL/data/test/test_set_xsaft57.zip"
 _TEST_VIDEO_FILE="test_set_xsaft57.zip"
 _TEST_VIDEO_PASSWORD="ds6Kvdus3o"
-_TEST_LABELS_URL="http://158.109.8.102/AuTSL/data/test/test_labels.zip"
+_TEST_LABELS_URL="https://data.chalearnlap.cvc.uab.cat/AuTSL/data/test/test_labels.zip"
 _TEST_LABELS_PASSWORD="ds6Kvdus3o"
 
 test_labels()
@@ -172,10 +172,10 @@ test()
 #------------------------- VALIDATION Data -------------------------#
 
 # Configuration
-_VAL_VIDEO_URL="http://158.109.8.102/AuTSL/data/validation/val_set_bjhfy68.zip"
+_VAL_VIDEO_URL="https://data.chalearnlap.cvc.uab.cat/AuTSL/data/validation/val_set_bjhfy68.zip"
 _VAL_VIDEO_FILE="val_set_bjhfy68.zip"
 _VAL_VIDEO_PASSWORD="bhRY5B9zS2"
-_VAL_LABELS_URL="http://158.109.8.102/AuTSL/data/validation/validation_labels.zip"
+_VAL_LABELS_URL="https://data.chalearnlap.cvc.uab.cat/AuTSL/data/validation/validation_labels.zip"
 _VAL_LABELS_PASSWORD="zYX5W7fZ"
 
 validation_labels()
