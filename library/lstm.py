@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 from tensorflow.keras import Model
 from tensorflow.keras.models import load_model
-from tensorflow.keras.optimizers.legacy import Adam
+from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.layers import Input, LSTM, Dense
 
 class LSTM_NN:
